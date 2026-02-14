@@ -126,7 +126,8 @@ function App() {
 export default App;
 ```
 
-Save, terus cek browser. Kalau tulisannya biru dan bold, Tailwind udah jalan. Noice.
+Save, terus cek browser. Kalau looks like gambar dibawah, gokil Tailwind udah jalan.
+![alt text](image.png)
 
 ---
 
