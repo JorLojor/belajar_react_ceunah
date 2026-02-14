@@ -233,6 +233,8 @@ export default App;
 ```
 
 Coba klik link di halaman — kalau berpindah halaman without reload, routing-nya udah work. Clean.
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ---
 
