@@ -51,7 +51,7 @@ Buka terminal, lalu jalankan:
 ```bash
 npm create vite@latest nama-project -- --template react
 ```
-``` nama-project ganti pake nama project kamu
+nama-project ganti pake nama project kamu
 
 ### 2. Masuk ke Folder Project
 
