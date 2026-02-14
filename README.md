@@ -49,8 +49,9 @@ Pastikan Node.js minimal versi **18** dan npm sudah terinstall. Kalau keduanya m
 Buka terminal, lalu jalankan:
 
 ```bash
-npm create vite@latest catatan-app -- --template react
+npm create vite@latest nama-project -- --template react
 ```
+``` nama-project ganti pake nama project kamu
 
 ### 2. Masuk ke Folder Project
 
