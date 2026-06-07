@@ -1,0 +1,39 @@
+.box {
+    
+    border: 1px solid rgb(192, 174, 174);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    width: fit-content;
+}
+
+.innerboxpink {
+    width: fit-content;
+    display: flex;
+    gap:8px;
+    padding-top: 8px;
+}
+
+.core-box {
+    height: 80px;
+    width: 80px;
+    background-color:aqua;
+    display: flex;
+}
+
+.colpink {
+    background-color: pink;
+}
+
+.colaqua {
+    background-color: aqua;
+}
+
+.rightinnerblue {
+    width: 200px;
+    height: 80px;
+    background-color:aqua;
+}
+
